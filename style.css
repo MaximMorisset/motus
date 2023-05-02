@@ -1,0 +1,14 @@
+body{
+    color: hsl(208, 85%, 87%);
+    background-color: #010530;
+}
+
+ul,li{
+    color: hsl(208, 85%, 87%);
+    display: inline;
+}
+
+nav{
+    text-align: center;
+    background-color: black;
+}

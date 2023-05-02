@@ -7,13 +7,14 @@
 </head>
 
 <body>
-    <h1>DevineMot</h1>
-    <nav class="header">
+    
+    <nav>
+        <h1>DevineMot</h1>
         <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>test</li>
+            <li>test</li>
+            <li>test</li>
+            <li>test</li>
         </ul>
     </nav>
 
